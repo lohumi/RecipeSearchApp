@@ -5,3 +5,5 @@ To run the Project try belkow steps-
 2- hit npm install
 3- npm start
 
+project preview can be seen in "Recipe.png" file.
+
